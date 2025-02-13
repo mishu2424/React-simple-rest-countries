@@ -1,0 +1,18 @@
+.country{
+    border: 2px solid skyblue;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.visited-country{
+    background-color: skyblue;
+    color: whitesmoke;
+}
+
+.flag{
+    border-radius: 15px;
+    height: 200px;
+    width: 350px;
+}
